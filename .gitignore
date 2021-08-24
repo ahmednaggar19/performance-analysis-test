@@ -28,6 +28,7 @@ gradle-app.setting
 
 # Package Files #
 *.jar
+!dark-magic.jar
 *.war
 *.ear
 
