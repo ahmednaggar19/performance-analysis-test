@@ -29,3 +29,5 @@ Note: These numbers may vary according to the machine specifications and the bus
 
 ![Screen Shot 2021-09-14 at 12 15 29 PM](https://user-images.githubusercontent.com/18014563/133240210-3ad58bb8-7c74-412d-a4a2-e375ceeec84c.png)
 ![Screen Shot 2021-09-14 at 12 15 41 PM](https://user-images.githubusercontent.com/18014563/133240029-bb487095-1fd0-4c0e-82f2-1d5aa213a4f8.png)
+
+Feel free to add more valuable visualizations by issuing a pull request.
